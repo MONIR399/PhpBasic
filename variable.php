@@ -2,7 +2,7 @@
 	echo "<span>Problem Solving-Part: 1</span> <br>";
 	echo "Recently I heard that you�ve achieved <br>
 95% marks in your exam.<br> This is brilliant! <br>
-I wish you�ll shine in your life! 	Good <br>
+I wish you�ll shine in your life! &nbsp;&nbsp;&nbsp;&nbsp;	Good <br>
 luck with all the barriers(/\) in your life <br><br><br>";
 
 
