@@ -3,7 +3,8 @@
 
 	$a=$_POST['num1'];
 	$b=$_POST['num2'];
-
+if($a>0 && $b>0)
+{
 
 if($a>0 && $a<10 && $b>0 && $b<10)
 {
@@ -95,7 +96,7 @@ if($a>0 && $a<10 && $b>0 && $b<10)
 	echo "The summmation is :$sum";
    }
    
-
+}
 
 ?>
 
